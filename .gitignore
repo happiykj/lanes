@@ -1,0 +1,5 @@
+/Win32/Release/*.obj
+/Win32/Release/*.log
+/Win32/Release/lanes.tlog/*.tlog
+/Win32/Release/lanes.tlog/*.lastbuildstate
+/Win32/Release/*.txt
